@@ -1,6 +1,6 @@
 # Quantitative Risk Engine: Dynamic GARCH Volatility & VaR Modeling (SBI Equity)
 
-![Quantitative Risk Dashboard](q_risk_dashboard.png) 
+![Quantitative Risk Dashboard](images/q_risk_dashboard.png) 
 
 This repository demonstrates the end-to-end engineering of a Basel-compliant market risk engine utilizing the GARCH family of models. Applied to 28 years of high-frequency daily equity data for State Bank of India (NSE: SBIN.NS), this project covers every step from data acquisition and empirical volatility diagnostics to model specification, regulatory backtesting, and dynamic Value at Risk (VaR) forecasting. 
 
